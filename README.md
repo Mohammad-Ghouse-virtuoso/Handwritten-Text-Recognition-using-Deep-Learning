@@ -42,3 +42,8 @@ Follow the cells, and you’ll see how it predicts words from images.
 
 💡 Learning Credits:
 This project was inspired by and built upon learning from the Python Lessons YouTube channel, which provides easy-to-follow coding tutorials for real-world AI applications. Go check them out if you want to build things like this yourself!
+
+Datasets: 
+https://www.kaggle.com/datasets/tejasreddy/iam-handwriting-top50
+https://www.kaggle.com/datasets/debadityashome/iamsentences/data
+https://www.kaggle.com/datasets/nibinv23/iam-handwriting-word-database
